@@ -1,3 +1,7 @@
+This is a fork of [vinceliuice's](https://github.com/vinceliuice) [Vimix Cursors](https://github.com/vinceliuice/Vimix-cursors). 
+This fork contains bug fixes and modifications to the install scripts fo FreeBSD compatibility.  
+I recommend you use the links above for any cloning or submissions. 
+
 # Vimix cursors
 This is an x-cursor theme inspired by Materia design and
 based on [capitaine-cursors](https://github.com/keeferrourke/capitaine-cursors).
