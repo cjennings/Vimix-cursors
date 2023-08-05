@@ -1,5 +1,7 @@
+# Fork Info
 This is a fork of [vinceliuice's](https://github.com/vinceliuice) [Vimix Cursors](https://github.com/vinceliuice/Vimix-cursors). 
-This fork contains bug fixes and modifications to the install scripts fo FreeBSD compatibility.  
+This fork contains bug fixes and modifications to the install scripts fo FreeBSD compatibility.
+
 I recommend you use the links above for any cloning or submissions. 
 
 # Vimix cursors
